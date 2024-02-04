@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="auteur5" min="-2" pref="41" max="-2" attributes="0"/>
+                      <EmptySpace pref="510" max="32767" attributes="0"/>
+                      <Component id="Add" min="-2" pref="75" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel2" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="nbPages" alignment="0" min="-2" pref="97" max="-2" attributes="0"/>
+                          <Component id="langue" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="anneeEdition" alignment="0" min="-2" pref="118" max="-2" attributes="0"/>
+                          <Component id="URL" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="favorie" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="recommande" alignment="0" min="-2" pref="94" max="-2" attributes="0"/>
+                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                              <Component id="titre" alignment="1" min="-2" pref="39" max="-2" attributes="0"/>
+                              <Component id="Editeur" alignment="1" min="-2" pref="41" max="-2" attributes="0"/>
+                              <Component id="ISBN" alignment="1" min="-2" pref="41" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel1" alignment="0" min="-2" pref="94" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="case3" min="-2" pref="271" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="case1" max="32767" attributes="0"/>
+                              <Component id="case2" pref="271" max="32767" attributes="0"/>
+                              <Component id="case7" alignment="0" pref="271" max="32767" attributes="0"/>
+                              <Component id="case6" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case5" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case8" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case9" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case10" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case11" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case12" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case13" alignment="0" max="32767" attributes="0"/>
+                              <Component id="case14" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Component id="case4" min="-2" pref="271" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="auteur4" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                          <Component id="auteur3" alignment="0" min="-2" pref="41" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="Retour" min="-2" pref="109" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="Retour" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="nbPages" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="langue" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="ISBN" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="titre" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Editeur" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="anneeEdition" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="URL" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case7" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="favorie" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case8" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="recommande" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case9" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel1" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="case10" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="case11" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="auteur3" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="case12" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="auteur4" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="case13" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="Add" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="auteur5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="case14" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="case13">
+    </Component>
+    <Component class="javax.swing.JLabel" name="auteur5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="auteur5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="favorie">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="favorie:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case14">
+    </Component>
+    <Component class="javax.swing.JLabel" name="recommande">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="recommande:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="Retour">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt; Retour"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RetourActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="case1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="case3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="case4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="case5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="case6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="case7">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="case7ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case8">
+    </Component>
+    <Component class="javax.swing.JTextField" name="case9">
+    </Component>
+    <Component class="javax.swing.JButton" name="Add">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ajouter"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="AddActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="auteur1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case10">
+    </Component>
+    <Component class="javax.swing.JLabel" name="nbPages">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="genre:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="auteur2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="langue">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="nbChapitres:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case11">
+    </Component>
+    <Component class="javax.swing.JLabel" name="ISBN">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ISBN:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="auteur3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="auteur3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="titre">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="titre:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="case12">
+    </Component>
+    <Component class="javax.swing.JLabel" name="Editeur">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Editeur:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="auteur4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="auteur4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="anneeEdition">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="anneeEdition:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="URL">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="URL:"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
